@@ -4,6 +4,8 @@ Qixiang Zhou (001822974)
 Vaibhavi Khamar (001400149)
 Zhouwei Wang (001443886)`
 
+* We use maven and junit4 in the project, please check when you run the project
+
 ### Problem description
 Use genetic algorithm to do the picture generation. Use components (Genes) to consist a picture (Individual, presented by 2D-Array). Store all pictures in a Priority Queue (Population), and let the fittest serval picture survive.
 
