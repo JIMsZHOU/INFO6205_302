@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfd9f5ad-250e-4d47-9e74-871490afa0aa" name="Default Changelist" comment="" />
+    <list default="true" id="bfd9f5ad-250e-4d47-9e74-871490afa0aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PictureGeneration.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/Population.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean/Population.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/smartfox_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/GA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/approach_One.test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/smartfox_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/GA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/bean/Gene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/bean/Individual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/bean/Population.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/bean/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/func/GA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/func/GeneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/func/IndividualFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/func/MaxPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/func/ReadImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/test/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/main/java/approach_Basic/test/node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/src/test/java/approach_Basic/bean/IndividualTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/bin/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/bean/Gene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/bean/Individual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/bean/Population.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/bean/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/func/GA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/func/GeneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/func/IndividualFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/func/MaxPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/func/ReadImg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/main/java/approach_Basic/test/T.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/src/test/java/approach_Basic/bean/IndividualTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/bean/Gene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/bean/Individual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/bean/Population.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/bean/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/func/GA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/func/GeneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/func/IndividualFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/func/MaxPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/func/ReadImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/test/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/classes/approach_Basic/test/node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/target/test-classes/approach_Basic/bean/IndividualTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PictureGeneration1/test.jpg" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,14 +124,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2132637230">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/bean/Individual.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1186">
-              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="-928">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +151,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +164,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/helper/ImgProcessTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -105,20 +181,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/helper/MaxPQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1107">
+            <state relative-caret-position="2025">
               <caret line="146" column="10" selection-start-line="146" selection-start-column="10" selection-end-line="146" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1021#1022#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1070#1071#0" expanded="true" />
-                <element signature="e#3059#3060#0" expanded="true" />
-                <element signature="e#3094#3095#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +193,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/helper/MaxPQTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
+            <state relative-caret-position="390">
               <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,8 +205,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bean/Population.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,37 +214,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/bean.Population">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>bean.Population</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">bean.Population</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="131.0" y="233.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bean/Gene.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="67" column="41" lean-forward="true" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+            <state relative-caret-position="750">
+              <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,7 +229,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/bean/GeneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="195">
               <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -208,6 +248,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -259,12 +302,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
     <option name="y" value="105" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -301,54 +345,7 @@
               <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
               <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="helper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PictureGeneration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PictureGeneration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="helper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -364,6 +361,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -493,13 +491,11 @@
       <workItem from="1543854163634" duration="23231000" />
       <workItem from="1543949090882" duration="2869000" />
       <workItem from="1543956973114" duration="12652000" />
+      <workItem from="1544028679881" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReamImgTest - 2018.12.03 at 14h 15m 30s.xml">
-      <configuration name="ReamImgTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReamImgTest - 2018.12.03 at 14h 16m 05s.xml">
       <configuration name="ReamImgTest" configurationId="JUnit" />
     </history-entry>
@@ -527,13 +523,15 @@
     <history-entry file="MaxPQTest - 2018.12.05 at 00h 16m 19s.xml">
       <configuration name="MaxPQTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MaxPQTest - 2018.12.05 at 11h 51m 42s.xml">
+      <configuration name="MaxPQTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38752000" />
+    <option name="totallyTimeSpent" value="38784000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="105" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23680556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -601,9 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../genetic-algorithm/src/main/java/Demo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../genetic-algorithm/src/main/java/Demo.java" />
     <entry file="file://$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/182.4505.22/IntelliJ IDEA.app.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -611,15 +607,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image586.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image586.png" />
     <entry file="file://$PROJECT_DIR$/test.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image52.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/image52.png" />
     <entry file="file://$PROJECT_DIR$/test.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -656,7 +648,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-184.5" y="123.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-184.0" y="123.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -691,7 +683,7 @@
               <point x="0.0" y="25.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-144.0" y="178.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-144.0" y="179.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -709,9 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,103 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/MaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="146" column="10" selection-start-line="146" selection-start-column="10" selection-end-line="146" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
-            <element signature="e#3059#3060#0" expanded="true" />
-            <element signature="e#3094#3095#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/helper/MaxPQTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/helper/ImgProcessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/bean/GeneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Gene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="67" column="41" lean-forward="true" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Individual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1186">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Population.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,6 +755,90 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-928">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/ImgProcessTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/MaxPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="146" column="10" selection-start-line="146" selection-start-column="10" selection-end-line="146" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/MaxPQTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Population.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Gene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bean/GeneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
