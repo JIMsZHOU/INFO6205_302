@@ -5,6 +5,7 @@ Vaibhavi Khamar (001400149)
 Zhouwei Wang (001443886)`
 
 * We use maven and junit4 in the project, please check when you run the project
+* All description about our idea, design, and experiment output is in Powerpoint file. And the unit test output is in unitTest.pdf file
 
 ### Problem description
 Use genetic algorithm to do the picture generation. Use components (Genes) to consist a picture (Individual, presented by 2D-Array). Store all pictures in a Priority Queue (Population), and let the fittest serval picture survive.
@@ -23,6 +24,4 @@ In computer science and operations research, a genetic algorithm (GA) is a metah
 * It is a great experiment, and very fun.
 
 ### Others
-For more detail, please see our open-sources code, also our PPT file.
-
-
+__For more detail, please see our open-sources code, unit test pdf, also our PPT file !!! __
